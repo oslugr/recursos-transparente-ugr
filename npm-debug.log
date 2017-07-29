@@ -1,12 +1,12 @@
 0 info it worked if it ends with ok
-1 verbose cli [ '/usr/bin/nodejs', '/usr/bin/npm', 'run', 'dev' ]
+1 verbose cli [ '/usr/bin/nodejs', '/usr/bin/npm', 'start', 'dev' ]
 2 info using npm@3.10.10
 3 info using node@v6.11.0
 4 verbose stack Error: ENOENT: no such file or directory, open '/home/alonso/recursos-transparente-ugr/package.json'
 4 verbose stack     at Error (native)
 5 verbose cwd /home/alonso/recursos-transparente-ugr
-6 error Linux 4.4.0-79-generic
-7 error argv "/usr/bin/nodejs" "/usr/bin/npm" "run" "dev"
+6 error Linux 4.4.0-83-generic
+7 error argv "/usr/bin/nodejs" "/usr/bin/npm" "start" "dev"
 8 error node v6.11.0
 9 error npm  v3.10.10
 10 error path /home/alonso/recursos-transparente-ugr/package.json
